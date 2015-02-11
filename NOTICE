@@ -1,0 +1,7 @@
+File and storage chooser library for android.
+Copyright 2015 rosyhat9 <mail:rosyhat9 at gmail>
+
+This software contains code derived from:
+https://github.com/ingyesid/simple-file-chooser (Yesid Lázaro Mayoriano)
+http://stackoverflow.com/questions/9340332/how-can-i-get-the-list-of-mounted-external-storage-of-android-device (Vitaliy Polchuk)
+http://stackoverflow.com/questions/11770773/listfragment-layout-from-xml (sherpya)

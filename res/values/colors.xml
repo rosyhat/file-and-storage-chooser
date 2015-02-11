@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+  <color name="storagesBackground">#FF171717</color> <!-- Blacky  -->
+  <color name="storagesBackgroundChosen">#F222</color> <!-- Blacky  -->
+  <color name="storagesText">#F37F</color> <!-- Azure  -->
+  
+  <color name="filesBackground">#F222</color> <!-- Blacky  -->
+  <color name="filesText">#F37F</color> <!-- Azure  -->
+  
+</resources>
