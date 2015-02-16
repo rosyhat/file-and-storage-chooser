@@ -3,6 +3,7 @@ file-and-storage-chooser
 
 Library for choosing file from any SDcard at android 2.3+ 
 
+![Home](https://lh4.googleusercontent.com/-9NcG1962ypI/VOH_JYWed2I/AAAAAAAAABI/5VovzTYl0k8/w288-h512-no/chooser_screenshot.png)
 
 HOW TO USE
 -------------------
