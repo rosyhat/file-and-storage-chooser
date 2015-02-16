@@ -40,8 +40,9 @@ HOW TO USE
 
 -- Declare FileChooserActivity in your AndroidManifest.xml --
 
-<code>  <activity
-        	android:label="@string/app_name"
-        	android:name="com.rosyhat9.filestoragechooser.ui.FileChooserActivity" >    
-	</activity>
-</code>
+```xml
+<activity
+	android:label="@string/app_name"
+	android:name="com.rosyhat9.filestoragechooser.ui.FileChooserActivity" >    
+</activity>
+```
